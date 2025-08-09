@@ -53,15 +53,15 @@ For Software:
 
 # Screenshots (Add at least 3)
 Screenshot1: 
-https://drive.google.com/file/d/1UvOtmjPztDRSWwLwfARZkiZGpa2b2T2n/view?usp=sharing
+[https://drive.google.com/file/d/1UvOtmjPztDRSWwLwfARZkiZGpa2b2T2n/view?usp=sharing](https://drive.google.com/file/d/16IauLKwdBxyAE8LuzuMdNO0YCVrGaxUw/view?usp=sharing)
 this gives the first screen where 3 buttons are located which are start,stop and the last one to display the results.
 
 Screenshot2:
-https://drive.google.com/file/d/1KeGbUvrN8W8QpzQc0fSUohLWPxBgewrK/view?usp=sharing
+[https://drive.google.com/file/d/1KeGbUvrN8W8QpzQc0fSUohLWPxBgewrK/view?usp=sharing](https://drive.google.com/file/d/1KeGbUvrN8W8QpzQc0fSUohLWPxBgewrK/view?usp=drive_link)
 this picture shows the tracking of each ant.here we use demo ants for this demo app.
 
 Screenshot3:
-https://drive.google.com/file/d/16IauLKwdBxyAE8LuzuMdNO0YCVrGaxUw/view?usp=sharing
+[https://drive.google.com/file/d/16IauLKwdBxyAE8LuzuMdNO0YCVrGaxUw/view?usp=sharing](https://drive.google.com/file/d/1UvOtmjPztDRSWwLwfARZkiZGpa2b2T2n/view?usp=drive_link)
 this is the result interface with shows the speed,distance and points of each ant.
 
 
@@ -72,7 +72,7 @@ this shows the video of our app.
 
 ### Project Demo
 # Video
-https://drive.google.com/file/d/1xnd6zisqlD7_t3PWvFkJet_kPcOQwU3U/view?usp=sharing
+[https://drive.google.com/file/d/1xnd6zisqlD7_t3PWvFkJet_kPcOQwU3U/view?usp=sharing](https://drive.google.com/file/d/1xnd6zisqlD7_t3PWvFkJet_kPcOQwU3U/view?usp=sharing)
 video demonstrates how the app works and detect ant and its path
 
 ## Team Contributions
