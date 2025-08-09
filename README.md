@@ -41,11 +41,6 @@ For Software:
 - [Libraries used=CAMERA,tflite_flutter,tflite_flutter_helper,path_provider,vector_math]
 - [Tools used=vs code,flutter sdk,dart sdk,android studio]
 
-For Hardware=nill
-- [List main components]
-- [List specifications]
-- [List tools required]
-
 ### Implementation
 For Software:
 # Installation
@@ -64,11 +59,11 @@ this gives the first screen where 3 buttons are located which are start,stop and
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 [*Add caption explaining what this shows*
-](https://drive.google.com/file/d/1KeGbUvrN8W8QpzQc0fSUohLWPxBgewrK/view?usp=sharing)
+]https://drive.google.com/file/d/1KeGbUvrN8W8QpzQc0fSUohLWPxBgewrK/view?usp=sharing
 this picture shows the tracking of each ant.here we use demo ants for this demo app.
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-(https://drive.google.com/file/d/16IauLKwdBxyAE8LuzuMdNO0YCVrGaxUw/view?usp=sharing)
+https://drive.google.com/file/d/16IauLKwdBxyAE8LuzuMdNO0YCVrGaxUw/view?usp=sharing
 this is the result interface with shows the speed,distance and points of each ant.
 
 
@@ -77,33 +72,10 @@ this is the result interface with shows the speed,distance and points of each an
 https://drive.google.com/file/d/1xnd6zisqlD7_t3PWvFkJet_kPcOQwU3U/view?usp=sharing
 this shows the video of our app.
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
 # Video
 https://drive.google.com/file/d/1xnd6zisqlD7_t3PWvFkJet_kPcOQwU3U/view?usp=sharing
 video demonstrates how the app works and detect ant and its path
-
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - [THEERTHA S B]: [EQUALLY CONTRIBUTION]
