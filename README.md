@@ -14,12 +14,11 @@
 - Member 2: [SARAH BASIL] - [COLLEGE OF ENGINEERING CHENGANOOR]
 
 ### Project Description
-[A real-time tracking system for ants.
+A real-time tracking system for ants.
 Uses webcam to follow a single ant's epic journey.
 Ants work hard. 
 Someone should notice.
 
-]
 
 ### The Problem (that doesn't exist)
 [Ants are among the most ecologically significant insects, playing crucial roles in soil aeration, seed dispersion, and as bioindicators. However, understanding their collective behavior, navigation patterns, and foraging routes is extremely difficult due to their small size and unpredictable movements<img width="7157" height="115" alt="image" src="https://github.com/user-attachments/assets/e84d633d-9ffb-44e4-8ae6-9a47c5f27547" />
@@ -53,22 +52,21 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+Screenshot1: 
 https://drive.google.com/file/d/1UvOtmjPztDRSWwLwfARZkiZGpa2b2T2n/view?usp=sharing
 this gives the first screen where 3 buttons are located which are start,stop and the last one to display the results.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-[*Add caption explaining what this shows*
-]https://drive.google.com/file/d/1KeGbUvrN8W8QpzQc0fSUohLWPxBgewrK/view?usp=sharing
+Screenshot2:
+https://drive.google.com/file/d/1KeGbUvrN8W8QpzQc0fSUohLWPxBgewrK/view?usp=sharing
 this picture shows the tracking of each ant.here we use demo ants for this demo app.
 
-![Screenshot3](Add screenshot 3 here with proper name)
+Screenshot3:
 https://drive.google.com/file/d/16IauLKwdBxyAE8LuzuMdNO0YCVrGaxUw/view?usp=sharing
 this is the result interface with shows the speed,distance and points of each ant.
 
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
+# Workflow:
 https://drive.google.com/file/d/1xnd6zisqlD7_t3PWvFkJet_kPcOQwU3U/view?usp=sharing
 this shows the video of our app.
 
